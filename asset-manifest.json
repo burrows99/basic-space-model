@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-space-model/static/css/main.e6c13ad2.css",
+    "main.js": "/basic-space-model/static/js/main.71e1fbcb.js",
+    "static/js/453.980053ba.chunk.js": "/basic-space-model/static/js/453.980053ba.chunk.js",
+    "index.html": "/basic-space-model/index.html",
+    "main.e6c13ad2.css.map": "/basic-space-model/static/css/main.e6c13ad2.css.map",
+    "main.71e1fbcb.js.map": "/basic-space-model/static/js/main.71e1fbcb.js.map",
+    "453.980053ba.chunk.js.map": "/basic-space-model/static/js/453.980053ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71e1fbcb.js"
+  ]
+}
